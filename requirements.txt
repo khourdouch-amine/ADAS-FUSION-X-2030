@@ -1,0 +1,13 @@
+﻿numpy
+pandas
+opencv-python
+matplotlib
+Pillow
+torch
+torchvision
+ultralytics
+transformers
+tqdm
+ipython
+accelerate
+safetensors
